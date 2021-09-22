@@ -14,6 +14,8 @@ aS STATED ABOVED, THE MAIN PURPOISE IS TO TO PROCIVIDE SIMDE EXAMPLE
 
 ## Deployment
 
+simple web
+
 ## How to contribute
 
 Sample website with plenty of files for demos
